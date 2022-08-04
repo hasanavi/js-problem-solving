@@ -4,6 +4,7 @@
  */
 
 // Unoptimised - this is what happens when we code with sleepy brain
+
 // const longestCommonPrefix = (strs) => {
 // 	let commonPrefix = strs.length === 1 ? strs[0] : "";
 
